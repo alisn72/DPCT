@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="BicAT_v2.22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BicAT_v2.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Biclustering.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-math3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ontologizer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/floyd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gnujaxp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jcommon-0.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jfreechart-0.9.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flanagan.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/flanagan.jar!/" />
+    </SOURCES>
+  </library>
+</component>
